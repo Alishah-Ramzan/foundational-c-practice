@@ -1,0 +1,1 @@
+class static ho tou function uska static hona zaroori hai, not applicable vice versa

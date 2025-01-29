@@ -1,0 +1,5 @@
+dotnet new console -n MyFirstApp
+cd MyFirstApp
+dotnet restore
+dotnet build
+dotnet run
